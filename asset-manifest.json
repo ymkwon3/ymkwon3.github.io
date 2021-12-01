@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1505dd1.chunk.css",
+    "main.js": "/static/js/main.da1f0dc6.chunk.js",
+    "main.js.map": "/static/js/main.da1f0dc6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.95f04152.js",
+    "runtime-main.js.map": "/static/js/runtime-main.95f04152.js.map",
+    "static/js/2.40b67cac.chunk.js": "/static/js/2.40b67cac.chunk.js",
+    "static/js/2.40b67cac.chunk.js.map": "/static/js/2.40b67cac.chunk.js.map",
+    "static/js/3.b708552a.chunk.js": "/static/js/3.b708552a.chunk.js",
+    "static/js/3.b708552a.chunk.js.map": "/static/js/3.b708552a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d1505dd1.chunk.css.map": "/static/css/main.d1505dd1.chunk.css.map",
+    "static/js/2.40b67cac.chunk.js.LICENSE.txt": "/static/js/2.40b67cac.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Maplestory_Light.9d949758.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95f04152.js",
+    "static/js/2.40b67cac.chunk.js",
+    "static/css/main.d1505dd1.chunk.css",
+    "static/js/main.da1f0dc6.chunk.js"
+  ]
+}
